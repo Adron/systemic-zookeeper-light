@@ -1,6 +1,6 @@
 # Zookeeper Light
 
-[![Container Logo](https://github.com/adron-orange/systemic-dock-base/blob/master/Logo.png?raw=true)]()
+[![Container Logo](https://github.com/adron-orange/systemic-zookeeper-light/blob/master/Logo.png?raw=true)]()
 
 [![License](https://img.shields.io/github/license/adron-orange/systemic-dock-base.svg?style=flat-square)](https://github.com/adron-orange/systemic-dock-base/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?style=flat-square)](#)
@@ -11,4 +11,4 @@
 
 A minimalistic install of Zookeeper, primarily used for other docker images.
 
-*Author(s):* [![Adron Hall](https://github.com/adron-orange/systemic-dock-base/blob/master/AdronHall.png?raw=true)](http://compositecode.com) @ **[Github](https://www.github.com/adron-orange)** or **[Twitter](https://twitter.com/adron)**.
+*Author(s):* [![Adron Hall](https://github.com/adron-orange/systemic-zookeeper-light/blob/master/AdronHall.png?raw=true)](http://compositecode.com) @ **[Github](https://www.github.com/adron-orange)** or **[Twitter](https://twitter.com/adron)**.
